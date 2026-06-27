@@ -1,6 +1,6 @@
-# JHU Hello World AI Engineering
+# JHU Module 1 - Hello World AI Engineering
 
-Public coursework repository for a JHU AI Engineering introductory GitHub assignment. It practices basic repository setup and includes introductory scripts in two programming languages.
+Public coursework repository for a JHU Module 1 AI Engineering introductory GitHub assignment. It practices basic repository setup and includes introductory scripts in two programming languages.
 
 ## Files
 
